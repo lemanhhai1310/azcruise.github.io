@@ -1,0 +1,45 @@
+.navbar_menu {
+    font-family: 'SVN-Futura';
+    font-size: 18px;
+    font-weight: normal;
+}
+.fontsize30{
+    font-size: 30px;
+    font-weight: 600;
+    color: #10284f;;
+}
+.fontsize13{
+    font-family: 'Nunito';
+    font-size: 13px;
+    font-weight: normal;
+}
+.box-discover__left-text {
+    font-family: 'Nunito';
+    font-size: 16px;
+    font-weight: normal;
+}
+.confirm__label {
+    font-family: 'Nunito';
+    font-size: 16px;
+  font-weight: bold;
+}
+.confirm__desc {
+    font-family: 'Nunito';
+    font-size: 16px;
+    font-weight: normal;
+}
+.loaihinh {
+    font-family: 'NunitoSans';
+  font-size: 20px;
+  font-weight: normal;
+
+}
+.loaihinh1{
+    font-family: 'NunitoSans';
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.taughep {
+
+}

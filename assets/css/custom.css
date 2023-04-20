@@ -1,0 +1,330 @@
+#toast-container > .toast-error {
+    opacity:1 !important;
+ }
+ 
+ .box__cano .box__cano-wrapper .cano__wrapper-book .wrapper__book-btn a.book__btn-btn {
+     background-color: #f54f3f;
+     border-radius: 6px;
+     border: solid 1px #e1e1e1;
+     padding: 18px 57px;
+     font-size: 18px;
+     color: #fff;
+     font-weight: 600;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: normal;
+     letter-spacing: normal;
+     text-align: left;
+     white-space: nowrap;
+ }
+ .box__cano .box__cano-wrapper .cano__wrapper-book .wrapper__book-btn a.book__btn-btn:hover
+ {
+      background-color: #c43f32; 
+ }
+ 
+ .happy__client__wrapper .happy__client__item h2, .box-discover-section__left-heading {
+     font-size: 30px !important;
+ }
+ 
+ .booking__train-section .booking__train-infor .infor__details-description .text-right
+ {
+     white-space:normal !important;
+ }
+ 
+ .detail-ship-section .detail-ship__img-wrap {
+     margin-bottom: 14px !important;
+ }
+ 
+ .detail-ship-section .detail-ship__box-label {
+     font-size: 25px;
+ }
+ 
+ .box_icon {
+     position: fixed;
+     bottom: 0;
+     z-index: 9999;
+     right: 20px;
+ }
+ 
+ .newfeed-detail img {
+     width: 100% !important;
+     height: 100% !important;
+     margin-bottom: 15px;
+     margin-top: 15px;
+ }
+ 
+ .newfeed-detail ul{
+     margin: 15px 0px 15px;
+ }
+ .newfeed-detail ul li {
+     list-style: square;
+     font-family: 'Nunito Sans';
+     margin-left: 50px !important;
+ }
+ 
+ .box-where-go__box-img img {
+     height: 340px;
+ }
+ 
+ .newfeed-detail img, .newfeed-detail p img, .newfeed-detail span img, .newfeed-detail div img {
+     width: 100% !important;
+     height: 100% !important;
+ }
+ 
+ .newfeed-detail__main h2, h2 > strong {
+     font-size: 23px !important;
+     margin:15px 0px 15px 0px;
+ }
+ 
+ .newfeed-detail__main h3, h3 > strong {
+     font-size: 21px !important;
+     margin: 15px 0px 15px 0px;
+ }
+ .newfeed-detail__main  figure
+ {
+      width: 100% !important;
+ }
+ 
+ .newfeed-detail__main h4, h4 > strong {
+     font-size: 19px !important;
+ }
+ 
+ .content-helicopter ul {
+     margin: 15px 0px 15px;
+ }
+ 
+ .content-helicopter ul li {
+     list-style: square;
+     margin-left: 50px !important;
+ }
+ 
+     .content-helicopter ul li p {
+         margin-bottom: 5px !important;
+     }
+ 
+     .content-helicopter ul li::before {
+         color: #000; /* or whatever color you prefer */
+     }
+ 
+ .newfeed-detail__main table {
+     margin: 20px 0px 20px 0px !important;
+     width: 100% !important;
+     border: 1px solid #e9ecef;
+     font-family: 'Nunito Sans';
+ }
+ 
+ @media only screen and (max-width: 768px) {
+     .newfeed-detail__heading h1, .helicopter-mb__content h1 {
+         font-size: 21px !important;
+         margin: 15px 0px 15px 0px;
+         line-height: 35px;
+     }
+ 
+     .newfeed-detail__main h2 > strong, .newfeed-detail__main h2, .helicopter-mb__content h2, .helicopter-mb__content h2 > strong {
+         font-size: 18px !important;
+         margin: 15px 0px 15px 0px;
+     }
+ 
+     .newfeed-detail__main h3 > strong, .newfeed-detail__main h3, .helicopter-mb__content h3, .helicopter-mb__content h3 > strong {
+         font-size: 16px !important;
+         margin: 15px 0px 15px 0px;
+     }
+ 
+     .newfeed-detail p iframe, .newfeed-detail iframe, .helicopter-mb__content p iframe, .helicopter-mb__content iframe {
+         width: 100% !important;
+     }
+ 
+     .banner-cano
+     {
+         height: auto !important;
+     }
+     .grafted-ship-route .grafted-ship-banner
+     {
+         margin-bottom: 20px;
+     }
+     .client-service__box-icon-wrap 
+     {
+         margin-bottom:15px;
+     }
+     .home-page-section .box-sale-list-section
+     {
+         margin-top:35px;
+     }
+     .home-page-section .client-service-section {
+         margin-top: 35px;
+     }
+     .color-text {
+         margin-bottom: 15px;
+     }
+     .color-text a, .font-svn a {
+         text-decoration: none;
+         color: #10284f !important;
+       
+     }
+     .newfeed-detail__heading a, .newfeed-detail__heading h1 a {
+         text-decoration: none;
+         color: #10284f !important;
+         font-size:18px;
+     }
+ 
+     .box-yacht-mobile__section {
+         border-bottom: 1px solid #c9dceb;
+         position: relative;
+         margin-bottom: 50px;
+         margin-top:75px;
+         
+     }
+     .load-data {
+         margin-bottom: 10px;
+         width: 100%;
+         position: relative;
+         border-bottom: 1px solid #c9dceb;
+     }
+ 
+     .btn-more {
+         border-radius: 6px;
+         border: solid 1px #10284f;
+         padding: 16px 65px;
+         display: inline-block;
+         font-family: "Nunito Sans", sans-serif;
+         font-size: 14px;
+         font-weight: 600;
+         line-height: 1;
+         color: #10284f;
+         text-transform: uppercase;
+         position: relative;
+         bottom: 0;
+         left: 50%;
+         transform: translateX(-50%) translateY(50%);
+         background: #f3f4f6;
+         z-index: 99;
+         transition: .3s ease-in-out;
+         white-space: nowrap;
+         outline: 0
+     }
+ 
+     .load-data .btn-more span {
+         padding-right: 4px
+     }
+ 
+    .load-data .btn-more:hover {
+         border-color: #6da6f2
+     }
+ 
+     .load-data .btn-more.loading {
+         display: none
+     }
+ 
+     .detail-ship-section .detail-ship__box ul li::after
+     {
+         top:15px !important;
+     }
+     .wrapper {
+         overflow-x: hidden
+     }
+     .banner-mobile .banner-title
+     {
+         margin-bottom:0px;
+     }
+ 
+     .booking__mb-section .booking__train-infor .infor__details-description p.text-right {
+         white-space: normal;
+         text-align:left !important;
+         margin-bottom:15px;
+     }
+ }
+ 
+ .newfeed-detail__main img
+ {
+     margin-bottom:10px;
+ }
+ 
+ .newfeed-detail__main table > tbody > tr:nth-child(1) {
+     background: #f3faff;
+     text-align: justify;
+ }
+ 
+     .newfeed-detail__main table tr td,
+     .newfeed-detail__main table tr th {
+         font-size: 13px;
+         color: #5e6164;
+         padding: 10px;
+         border: 1px solid #e9ecef;
+     }
+ 
+     .newfeed-detail__main table tr a {
+         color: #00559f;
+     }
+ 
+     .newfeed-detail__main table tr th {
+         font-family: SFProDisplay-Bold;
+     }
+ 
+ 
+ .content-helicopter img {
+     margin-bottom: 10px;
+ }
+ 
+ .content-helicopter table {
+     margin: 20px 0px 20px 0px !important;
+     width: 100%;
+     border: 1px solid #e9ecef;
+ }
+ 
+     .content-helicopter table > tbody > tr:nth-child(1) {
+         background: #f3faff;
+         text-align: middle;
+     }
+ 
+     .content-helicopter table tr td,
+     .content-helicopter table tr th {
+         font-size: 13px;
+         color: #5e6164;
+         padding: 10px;
+         border: 1px solid #e9ecef;
+     }
+ 
+ 
+     .content-helicopter table tr a {
+         color: #00559f;
+     }
+ 
+     .content-helicopter table tr th {
+         font-family: SFProDisplay-Bold;
+     }
+ 
+ 
+     .content-helicopter table tr:not(:last-of-type) td,
+     .content-helicopter table tr:not(:last-of-type) th {
+         border-bottom: 1px solid #e9ecef;
+     }
+ 
+ .content-helicopter h1, h2, h3, h4, h5, h6 {
+     font-family: "SVN-Futura", sans-serif;
+ }
+     .content-helicopter h1 > strong, .content-helicopter h2 > strong, .content-helicopter h3 > strong, .content-helicopter h4 > strong, .content-helicopter h5 > strong, .content-helicopter h6 > strong {
+         font-size: 21px !important;
+         font-family: "SVN-Futura", sans-serif;
+     }
+ .helicopter .box-helicopter .content-helicopter {
+     padding: 0 29px 29px 29px !important;
+ }
+ 
+ .helicopter .box-helicopter .content-helicopter p, .helicopter .box-helicopter .content-helicopter span, .helicopter .box-helicopter .content-helicopter {
+     font-family: "Nunito Sans", sans-serif;
+ }
+ 
+ 
+     .btn-find btn-find-link :hover {
+         background-color: #a21507 !important;
+     }
+ 
+ .btn-reserve:hover {
+     background-color: #f54f3f !important;
+     color: #fff !important;
+     cursor: pointer !important;
+ }
+ 
+ .yach-details__section h2.title-section, .yach-details__section .evaluate-section__content .price p strong {
+     font-size: 30px !important;
+ }
