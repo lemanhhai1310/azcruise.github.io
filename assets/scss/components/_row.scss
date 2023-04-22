@@ -1,0 +1,12 @@
+@mixin row($x){
+  margin: calc((0px - #{$x}px)/2);
+  >*{
+    padding: calc(#{$x}px/2);
+  }
+}
+$j: 8,10,14,24,60,80;
+@each $i in $j {
+  .row-#{$i}{
+    @include row($i);
+  }
+}
