@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <script src="/__prepros.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -17,8 +16,8 @@
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
-    =="
-    crossorigin="anonymous"/>
+          integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+          crossorigin="anonymous"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"/>
     <link rel="stylesheet" type="text/css" href="./assets/css/carousel/owl.carousel.min.css">
@@ -172,13 +171,13 @@
                                             </ul>
                                             <div class="icon-arrow-down pt-ev">
                                                 <svg version="1.1" id="Capa_1"
-                                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                     y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
-                                                     xml:space="preserve">
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
+                            xml:space="preserve">
                             <path
                                     d="M472.328,120.529L245.213,347.665L18.098,120.529c-4.237-4.093-10.99-3.975-15.083,0.262c-3.992,4.134-3.992,10.687,0,14.82l234.667,234.667c4.165,4.164,10.917,4.164,15.083,0l234.667-234.667c4.237-4.093,4.354-10.845,0.262-15.083c-4.093-4.237-10.845-4.354-15.083-0.262c-0.089,0.086-0.176,0.173-0.262,0.262L472.328,120.529z"/>
-                                                    <path
-                                                            d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
+                            <path
+                                    d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
                           </svg>
                                             </div>
                                         </div>
@@ -207,13 +206,13 @@
                                             </ul>
                                             <div class="icon-arrow-down pt-ev">
                                                 <svg version="1.1" id="Capa_1"
-                                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                     y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
-                                                     xml:space="preserve">
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
+                            xml:space="preserve">
                             <path
                                     d="M472.328,120.529L245.213,347.665L18.098,120.529c-4.237-4.093-10.99-3.975-15.083,0.262c-3.992,4.134-3.992,10.687,0,14.82l234.667,234.667c4.165,4.164,10.917,4.164,15.083,0l234.667-234.667c4.237-4.093,4.354-10.845,0.262-15.083c-4.093-4.237-10.845-4.354-15.083-0.262c-0.089,0.086-0.176,0.173-0.262,0.262L472.328,120.529z"/>
-                                                    <path
-                                                            d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
+                            <path
+                                    d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
                           </svg>
                                             </div>
                                         </div>
@@ -230,13 +229,13 @@
                                                 Chưa được chọn</p>
                                             <div class="icon-arrow-down pt-ev">
                                                 <svg version="1.1" id="Capa_1"
-                                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                     y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
-                                                     xml:space="preserve">
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
+                            xml:space="preserve">
                             <path
                                     d="M472.328,120.529L245.213,347.665L18.098,120.529c-4.237-4.093-10.99-3.975-15.083,0.262c-3.992,4.134-3.992,10.687,0,14.82l234.667,234.667c4.165,4.164,10.917,4.164,15.083,0l234.667-234.667c4.237-4.093,4.354-10.845,0.262-15.083c-4.093-4.237-10.845-4.354-15.083-0.262c-0.089,0.086-0.176,0.173-0.262,0.262L472.328,120.529z"/>
-                                                    <path
-                                                            d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
+                            <path
+                                    d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
                           </svg>
                                             </div>
                                             <ul class="options-select" id="options-select">
@@ -284,13 +283,13 @@
                                             <input type="hidden" id="calendar-ja" autocomplete="off" name="date">
                                             <div class="icon-arrow-down" id="toggle">
                                                 <svg version="1.1" id="Capa_1"
-                                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                     y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
-                                                     xml:space="preserve">
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 490.688 490.688" style="enable-background:new 0 0 490.688 490.688;"
+                            xml:space="preserve">
                             <path
                                     d="M472.328,120.529L245.213,347.665L18.098,120.529c-4.237-4.093-10.99-3.975-15.083,0.262c-3.992,4.134-3.992,10.687,0,14.82l234.667,234.667c4.165,4.164,10.917,4.164,15.083,0l234.667-234.667c4.237-4.093,4.354-10.845,0.262-15.083c-4.093-4.237-10.845-4.354-15.083-0.262c-0.089,0.086-0.176,0.173-0.262,0.262L472.328,120.529z"/>
-                                                    <path
-                                                            d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
+                            <path
+                                    d="M245.213,373.415c-2.831,0.005-5.548-1.115-7.552-3.115L2.994,135.633c-4.093-4.237-3.975-10.99,0.262-15.083c4.134-3.992,10.687-3.992,14.82,0l227.136,227.115l227.115-227.136c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262L252.744,370.279C250.748,372.281,248.039,373.408,245.213,373.415z"/>
                           </svg>
                                             </div>
                                         </div>
@@ -345,30 +344,50 @@
             <div class="box-sale-list">
                 <div class="container">
                     <h3 class="box-sale-list__title">Săn deal giá rẻ</h3>
-                    <!--                    <div class="box-sale-list__wrap row">-->
-                    <!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
-                    <!--                                                                             href="#"><span>HOT-->
-                    <!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-1.png" alt="img"></a><a href="#">-->
-                    <!--                            <h4 class="box-sale-list__box-title">Combo 1 ngày 2 đêm cho cả gia đình</h4>-->
-                    <!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
-                    <!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
-                    <!--                                                                             href="#"><span>HOT-->
-                    <!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-2.png" alt="img"></a><a href="#">-->
-                    <!--                            <h4 class="box-sale-list__box-title">Thăm vịnh bằng trực thăng</h4>-->
-                    <!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
-                    <!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
-                    <!--                                                                             href="#"><span>HOT-->
-                    <!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-3.png" alt="img"></a><a href="#">-->
-                    <!--                            <h4 class="box-sale-list__box-title">Tắm Onsen -50%</h4>-->
-                    <!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
-                    <!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
-                    <!--                                                                             href="#"><span>HOT-->
-                    <!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-4.png" alt="img"></a><a href="#">-->
-                    <!--                            <h4 class="box-sale-list__box-title">Vé du thuyền -40%</h4>-->
-                    <!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
-                    <!--                    </div>-->
+<!--                    <div class="box-sale-list__wrap row">-->
+<!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
+<!--                                                                             href="#"><span>HOT-->
+<!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-1.png" alt="img"></a><a href="#">-->
+<!--                            <h4 class="box-sale-list__box-title">Combo 1 ngày 2 đêm cho cả gia đình</h4>-->
+<!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
+<!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
+<!--                                                                             href="#"><span>HOT-->
+<!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-2.png" alt="img"></a><a href="#">-->
+<!--                            <h4 class="box-sale-list__box-title">Thăm vịnh bằng trực thăng</h4>-->
+<!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
+<!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
+<!--                                                                             href="#"><span>HOT-->
+<!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-3.png" alt="img"></a><a href="#">-->
+<!--                            <h4 class="box-sale-list__box-title">Tắm Onsen -50%</h4>-->
+<!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
+<!--                        <div class="box-sale-list__box col-lg-3 col-md-6"><a class="box-sale-list__box-img"-->
+<!--                                                                             href="#"><span>HOT-->
+<!--                    DEAL</span><img src="./assets/images/box-sale-list/sale-4.png" alt="img"></a><a href="#">-->
+<!--                            <h4 class="box-sale-list__box-title">Vé du thuyền -40%</h4>-->
+<!--                        </a><span class="box-sale-list__box-price">đ 2.900.000</span></div>-->
+<!--                    </div>-->
                     <div class="item__32">
                         <div class="row row-24 home__gridMath">
+                            <?php
+                            $data = array(
+                                array(
+                                    'name' => 'Combo tàu thăm Vịnh + đón/tiễn từ Hà Nội',
+                                    'price' => '1.150.000 đ',
+                                ),
+                                array(
+                                    'name' => 'Vé Yoko Onsen Quang Hanh',
+                                    'price' => '600.000 đ',
+                                ),
+                                array(
+                                    'name' => 'Giá vé công viên SunWorld',
+                                    'price' => '100.000 đ',
+                                ),
+                                array(
+                                    'name' => 'Combo Du thuyền Ambassador và khách sạn 5 sao',
+                                    'price' => '1.930.000 đ',
+                                ),
+                            );
+                            foreach ($data as $k=>$v): ?>
                             <div class="col-lg-3">
                                 <div class="card home__sandeal__card">
                                     <div class="position-relative home__sandeal__card__boxImg">
@@ -378,8 +397,8 @@
                                     </div>
                                     <div class="card-body home__sandeal__card__body d-flex flex-column">
                                         <div style="flex: auto">
-                                            <div class="home__sandeal__card__name"><a href="">Combo tàu thăm Vịnh + đón/tiễn từ Hà Nội</a></div>
-                                            <div class="home__sandeal__card__price">1.150.000 đ</div>
+                                            <div class="home__sandeal__card__name"><a href=""><?= $v['name'] ?></a></div>
+                                            <div class="home__sandeal__card__price"><?= $v['price'] ?></div>
                                         </div>
                                         <div class="item__25">
                                             <div class="row text-center home__gridMath">
@@ -412,135 +431,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
-                                <div class="card home__sandeal__card">
-                                    <div class="position-relative home__sandeal__card__boxImg">
-                                        <img src="assets/images/noimage.jpg" alt="">
-                                        <span>HOT DEAL</span>
-                                        <a href="" class="position-cover"></a>
-                                    </div>
-                                    <div class="card-body home__sandeal__card__body d-flex flex-column">
-                                        <div style="flex: auto">
-                                            <div class="home__sandeal__card__name"><a href="">Vé Yoko Onsen Quang Hanh</a></div>
-                                            <div class="home__sandeal__card__price">600.000 đ</div>
-                                        </div>
-                                        <div class="item__25">
-                                            <div class="row text-center home__gridMath">
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/hotel.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Khách sạn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/001-insurance.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Xe đón/tiễn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/002-cruise.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Vé tàu</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="card home__sandeal__card">
-                                    <div class="position-relative home__sandeal__card__boxImg">
-                                        <img src="assets/images/noimage.jpg" alt="">
-                                        <span>HOT DEAL</span>
-                                        <a href="" class="position-cover"></a>
-                                    </div>
-                                    <div class="card-body home__sandeal__card__body d-flex flex-column">
-                                        <div style="flex: auto">
-                                            <div class="home__sandeal__card__name"><a href="">Giá vé công viên SunWorld</a></div>
-                                            <div class="home__sandeal__card__price">100.000 đ</div>
-                                        </div>
-                                        <div class="item__25">
-                                            <div class="row text-center home__gridMath">
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/hotel.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Khách sạn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/001-insurance.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Xe đón/tiễn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/002-cruise.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Vé tàu</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="card home__sandeal__card">
-                                    <div class="position-relative home__sandeal__card__boxImg">
-                                        <img src="assets/images/noimage.jpg" alt="">
-                                        <span>HOT DEAL</span>
-                                        <a href="" class="position-cover"></a>
-                                    </div>
-                                    <div class="card-body home__sandeal__card__body d-flex flex-column">
-                                        <div style="flex: auto">
-                                            <div class="home__sandeal__card__name"><a href="">Combo Du thuyền Ambassador và khách sạn 5 sao</a></div>
-                                            <div class="home__sandeal__card__price">1.930.000 đ</div>
-                                        </div>
-                                        <div class="item__25">
-                                            <div class="row text-center home__gridMath">
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/hotel.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Khách sạn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/001-insurance.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Xe đón/tiễn</div>
-                                                    </div>
-                                                </div>
-                                                <div class="col">
-                                                    <div class="home__sandeal__box active">
-                                                        <div class="home__sandeal__box__flexAuto">
-                                                            <img src="assets/images/002-cruise.png" alt="">
-                                                        </div>
-                                                        <div class="home__sandeal__box__txt">Vé tàu</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <?php endforeach; ?>
                         </div>
                     </div>
                 </div>
